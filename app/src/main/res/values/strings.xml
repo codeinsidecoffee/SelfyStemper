@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelfyStemper</string>
+    <string name="user_cancelled_image_capture">User Canclled Image Capture</string>
+    <string name="sorry_failed_to_capture_image">Sorry Failed to Capture Image</string>
+</resources>
